@@ -1,4 +1,4 @@
-# eScience Center / NWO SMP
+# RSM Schema JSON export
 
 This is Document for exporting **LUMC SMP** into a **RSM Schema JSON** in [Data Stewardship Wizard (DSW)](https://ds-wizard.org).
 
